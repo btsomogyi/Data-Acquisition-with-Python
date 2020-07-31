@@ -1,5 +1,5 @@
 ## Exploring-Data-Acquisition-with-Android-Devices-and-Python
-Github page for my Medium.com data science article
+Github page for original Medium.com data science article
 - link: https://medium.com/@draymo/exploring-data-acquisition-and-trajectory-tracking-with-android-devices-and-python-9fdef38f25ee
 
 At a glance, we will:
